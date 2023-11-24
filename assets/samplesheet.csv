@@ -1,0 +1,2 @@
+sample_id,bam,index,file_type
+sample1,https://github.com/ghga-de/test-datasets/blob/main/seq2_testdata_snv/WES_LL_N_1_test.bam,https://github.com/ghga-de/test-datasets/blob/main/seq2_testdata_snv/WES_LL_N_1_test.bam.bai,bam
